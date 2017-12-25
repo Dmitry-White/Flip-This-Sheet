@@ -8,12 +8,10 @@
 
 <br/>
 
-<div align="center">
 ![forthebadge](http://forthebadge.com/images/badges/ages-18.svg)
 ![forthebadge](http://forthebadge.com/images/badges/built-with-grammas-recipe.svg)
 ![forthebadge](http://forthebadge.com/images/badges/designed-in-ms-paint.svg)
 ![forthebadge](http://forthebadge.com/images/badges/fo-real.svg)
-</div>
 
 <br/>
 
