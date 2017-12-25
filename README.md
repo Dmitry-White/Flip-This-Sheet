@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://dmitry-white.github.io/Slender/"><img src="img/play.png" /></a>
+  <a href="https://dmitry-white.github.io/Flip-This-Sheet/"><img src="img/play.png" /></a>
 </div>
 
 
