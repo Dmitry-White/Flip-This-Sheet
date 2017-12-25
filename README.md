@@ -9,6 +9,7 @@
 <br/>
 
 ![forthebadge](http://forthebadge.com/images/badges/ages-18.svg)
+![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)
 ![forthebadge](http://forthebadge.com/images/badges/built-with-grammas-recipe.svg)
 ![forthebadge](http://forthebadge.com/images/badges/designed-in-ms-paint.svg)
 ![forthebadge](http://forthebadge.com/images/badges/fo-real.svg)
@@ -16,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://dmitry-white.github.io/Slender/"><img src="img/play.png" /></a>
+  <a href="https://dmitry-white.github.io/Flip-This-Sheet/"><img src="img/play.png" /></a>
 </div>
 
 
