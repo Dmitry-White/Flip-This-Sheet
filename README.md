@@ -40,4 +40,4 @@ npm run game
 * [MMenavas](https://github.com/mmenavas/memory-game) - Fruit Matcher. HTML5, CSS3 and Javascript memory game.
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
