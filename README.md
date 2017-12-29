@@ -26,7 +26,7 @@ A small game, where you simply match cards for a given time.
 
 ## Story
 "Alright, William. After years of severe training and learning you're finally ready for this important task!
-Get your brains working and apply all the knowledge that you've got on Operational Systems - especially, Bill, ESPECIALLY!!! on icons. So focus, soldier, cause it's not that easy-peasy as shooting fancy guns of yours, this is SERIOUS business! And keep in mind that there's a small-for-no-reason timer up above the game field, to keep your sweet as... well... to hurry you up a bit. So don't let your people down, they're counting on you! GO FLIP THAT SHEET!"
+Get your brains working and apply all the knowledge that you've got on Operational Systems - especially, Bill, ESPECIALLY!!! on icons. So focus, soldier, cause it's not that easy peasy as shooting fancy guns of yours, this is SERIOUS business! And keep in mind that there's a small-for-no-reason timer up above the game field, to keep your sweet as... well... to hurry you up a bit. So don't let your people down, they're counting on you! GO FLIP THAT SHEET!"
 
 ### Local Usage
 ```
