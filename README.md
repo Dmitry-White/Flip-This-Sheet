@@ -14,15 +14,19 @@
 ![forthebadge](http://forthebadge.com/images/badges/designed-in-ms-paint.svg)
 ![forthebadge](http://forthebadge.com/images/badges/fo-real.svg)
 
-<br/>
-
 <div align="center">
   <a href="https://dmitry-white.github.io/Flip-This-Sheet/"><img src="img/play.png" /></a>
 </div>
 
-
 ## Description
-A small game, where you simply match cards for a given time.
+<div align="center">
+  A small game, where you simply match cards for a given time.  
+  <br/>
+  <br/>
+  <img width="200" height="107" src="img/img1.png" />
+  <img width="200" height="107" src="img/img2.png" />
+  <img width="200" height="107" src="img/img3.png" />
+</div>
 
 ## Story
 "Alright, William. After years of severe training and learning you're finally ready for this important task!
